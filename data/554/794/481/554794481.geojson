@@ -1,0 +1,52 @@
+{
+  "id": 554794481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"CL",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85682175,
+        102191577,
+        85633057,
+        102017903,
+        102063131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"56048545"
+    },
+    "wof:country":"CL",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633057,
+            "county_id":102063131,
+            "locality_id":102017903,
+            "postalcode_id":554794481,
+            "region_id":85682175
+        }
+    ],
+    "wof:id":554794481,
+    "wof:lastmodified":1460098955,
+    "wof:name":"1390000",
+    "wof:parent_id":"102017903",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
